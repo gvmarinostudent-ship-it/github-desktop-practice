@@ -6,9 +6,9 @@
 
 
 
-My hobbies 
+I am a student learning GitHub.
 
 
 
-Playing Basketball, Dancing, Music
+My hobbies are listening to music and playing games.
 
