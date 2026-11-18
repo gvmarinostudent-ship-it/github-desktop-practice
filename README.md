@@ -6,7 +6,9 @@
 
 
 
-My Skills 
+My hobbies 
 
-Problem Solving, Customer Service, Computer Literacy
+
+
+Playing Basketball, Dancing, Music
 
