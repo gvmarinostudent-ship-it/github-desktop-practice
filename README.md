@@ -1,14 +1,16 @@
-\#About me
+\## My Skills 
+
+\-Computer programming
+
+\-Web development
+
+\-communication
 
 
 
-&#x20;My name is Gabriel marino
+\## My Goals
 
+\-Learn coding
 
-
-I am a student learning GitHub.
-
-
-
-My skills are problem solving.
+\-Build my own websites
 
