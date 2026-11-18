@@ -6,5 +6,7 @@
 
 
 
-i am a student learning GitHub.
+My Skills 
+
+Problem Solving, Customer Service, Computer Literacy
 
