@@ -10,5 +10,5 @@ I am a student learning GitHub.
 
 
 
-My hobbies are listening to music and playing games.
+My skills are problem solving.
 
